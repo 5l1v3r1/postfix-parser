@@ -1,0 +1,24 @@
+{
+  "name": "postfix-parser2",
+  "version": "1.0.0",
+  "description": "Parse postfix log from smtp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/postfix-parser.git"
+  },
+  "keywords": [
+    "postfix",
+    "parser",
+    "postfix-parser"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/postfix-parser/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/postfix-parser#readme"
+}
